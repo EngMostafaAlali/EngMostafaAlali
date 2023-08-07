@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @EngMostafaAlali
+- 👀 I’m interested in data analysis and all the related things to data from peogramming to excel sheets...
+- 🌱 I’m currently learning python and SQL languages ...
+- 📫 feel free to massege me on linkedin platform https://www.linkedin.com/in/mostafa-alali-ba2397204/ ...
+
+<!---
+EngMostafaAlali/EngMostafaAlali is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
